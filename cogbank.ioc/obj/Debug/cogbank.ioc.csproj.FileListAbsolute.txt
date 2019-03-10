@@ -1,0 +1,14 @@
+C:\Users\Philipp\Pictures\CogBank\cogbank.ioc\bin\Debug\cogbank.ioc.dll
+C:\Users\Philipp\Pictures\CogBank\cogbank.ioc\bin\Debug\cogbank.ioc.pdb
+C:\Users\Philipp\Pictures\CogBank\cogbank.ioc\bin\Debug\cogbank.helper.dll
+C:\Users\Philipp\Pictures\CogBank\cogbank.ioc\bin\Debug\SimpleInjector.dll
+C:\Users\Philipp\Pictures\CogBank\cogbank.ioc\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Philipp\Pictures\CogBank\cogbank.ioc\bin\Debug\cogbank.helper.pdb
+C:\Users\Philipp\Pictures\CogBank\cogbank.ioc\bin\Debug\SimpleInjector.xml
+C:\Users\Philipp\Pictures\CogBank\cogbank.ioc\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Philipp\Pictures\CogBank\cogbank.ioc\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Philipp\Pictures\CogBank\cogbank.ioc\obj\Debug\cogbank.ioc.csprojAssemblyReference.cache
+C:\Users\Philipp\Pictures\CogBank\cogbank.ioc\obj\Debug\cogbank.ioc.csproj.CoreCompileInputs.cache
+C:\Users\Philipp\Pictures\CogBank\cogbank.ioc\obj\Debug\cogbank.ioc.csproj.CopyComplete
+C:\Users\Philipp\Pictures\CogBank\cogbank.ioc\obj\Debug\cogbank.ioc.dll
+C:\Users\Philipp\Pictures\CogBank\cogbank.ioc\obj\Debug\cogbank.ioc.pdb

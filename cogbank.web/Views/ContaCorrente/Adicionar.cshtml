@@ -1,0 +1,28 @@
+﻿@model cogbank.model.ViewModels.ContaCorrenteViewModel
+
+@{
+	ViewBag.Title = "Conta Corrente | Adicionar";
+}
+
+<div class="row">
+	<div class="col-md-12">
+		<div class="grid simple form-grid">
+			<div class="grid-title">
+				<h2>Conta Corrente</h2>
+				<div class="tools">
+				</div>
+			</div>
+			<div class="grid-body">
+				@using (Html.BeginForm("Adicionar", "ContaCorrente", FormMethod.Post))
+				{
+					@Html.Partial("_ErrorSummary")
+					@Html.Partial("_ContaCorrente", Model)
+					<div class="form-actions">
+						<a class="btn btn-primary" href="@Url.Action("Index", "ContaCorrente")"> Voltar</a>
+						<button type="submit" class="btn btn-primary"> Salvar</button>
+					</div>
+				}
+			</div>
+		</div>
+	</div>
+</div>

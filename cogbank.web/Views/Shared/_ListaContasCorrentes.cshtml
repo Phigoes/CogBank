@@ -1,0 +1,43 @@
+﻿@model IEnumerable<cogbank.model.ContaCorrente>
+@{
+	Layout = null;
+}
+<div>
+	<table class="table table-hover table-striped datatable">
+		<thead>
+			<tr>
+				<th>Numero</th>
+				<th>Tipo da Conta</th>
+				<th>Nome do Titular</th>
+				<th>Saldo</th>
+				@*<th>Dolar</th>*@
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var item in Model.OrderBy(c => c.Numero))
+			{
+				<tr>
+					<td>
+						@Html.DisplayFor(modelItem => item.Numero)
+					</td>
+					<td>
+						@Html.DisplayFor(modelItem => item.TipoDeConta.Descricao)
+					</td>
+					<td>
+						@Html.DisplayFor(modelItem => item.NomeDoTitular)
+					</td>
+					<td>
+						@Html.DisplayFor(modelItem => item.Saldo)
+					</td>
+					@*<td>
+							@{Html.RenderAction("ObterConversao", new { Valor = item.Saldo });}
+						</td>*@
+					<td width="20%" class="text-center">
+						<a href='@Url.Action("Consultar","Movimentacao", new { ID=item.ID })' class="btn btn-xs btn-mini btn-primary" title="Editar"> Consultar</a>
+						<a href='@Url.Action("Excluir","ContaCorrente", new { ID=item.ID })' class="btn btn-xs btn-mini btn-primary" title="Editar"> Remover</a>
+					</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+</div>

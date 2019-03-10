@@ -1,0 +1,9 @@
+C:\Users\Philipp\Pictures\CogBank\cogbank.helper\bin\Debug\cogbank.helper.dll
+C:\Users\Philipp\Pictures\CogBank\cogbank.helper\bin\Debug\cogbank.helper.pdb
+C:\Users\Philipp\Pictures\CogBank\cogbank.helper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Philipp\Pictures\CogBank\cogbank.helper\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Philipp\Pictures\CogBank\cogbank.helper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Philipp\Pictures\CogBank\cogbank.helper\obj\Debug\cogbank.helper.csproj.CoreCompileInputs.cache
+C:\Users\Philipp\Pictures\CogBank\cogbank.helper\obj\Debug\cogbank.helper.csproj.CopyComplete
+C:\Users\Philipp\Pictures\CogBank\cogbank.helper\obj\Debug\cogbank.helper.dll
+C:\Users\Philipp\Pictures\CogBank\cogbank.helper\obj\Debug\cogbank.helper.pdb

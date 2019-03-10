@@ -1,0 +1,27 @@
+﻿@model cogbank.model.ViewModels.MovimentacaoViewModel
+
+@{
+	ViewBag.Title = "Movimentação | Ação";
+}
+
+<div class="row">
+	<div class="col-md-12">
+		<div class="grid simple form-grid">
+			<div class="grid-title">
+				<h2>Movimentação</h2>
+				<div class="tools">
+				</div>
+			</div>
+			<div class="grid-body">
+				@using (Html.BeginForm("Acao", "Movimentacao", FormMethod.Post))
+				{
+					@Html.Partial("_Movimentacao", Model)
+					<div class="form-actions">
+						<a class="btn btn-primary" href="@Url.Action("Index", "ContaCorrente")"> Voltar</a>
+						<button type="submit" class="btn btn-primary"> Movimentar</button>
+					</div>
+				}
+			</div>
+		</div>
+	</div>
+</div>

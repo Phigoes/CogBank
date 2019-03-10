@@ -1,0 +1,27 @@
+﻿@model cogbank.model.ViewModels.MovimentacaoViewModel
+@{
+	Layout = null;
+}
+@Html.HiddenFor(x => x.ID)
+@Html.HiddenFor(x => x.ContaID)
+<div class="row">
+	<div class="col-md-3">
+		<div class="form-group">
+			<label class="form-label">@Html.DisplayNameFor(model => model.TipoDeMovimentacaoID) <span class="required">*</span></label>
+			@Html.DropDownListFor(model => model.TipoDeMovimentacaoID, new SelectList(ViewBag.TiposDeMovimentacao, "Valor", "Nome"), new { @class = "form-control", @style = "width:100%", required = "" })
+			@Html.ValidationMessageFor(model => model.TipoDeMovimentacaoID, "", new { @class = "text-danger" })
+		</div>
+	</div>
+	<div class="col-md-3">
+		<div class="form-group">
+			<label class="form-label">@Html.DisplayNameFor(x => x.Valor) <span class="required">*</span></label>
+			@Html.EditorFor(model => model.Valor, new { htmlAttributes = new { @class = "form-control", autocomplete = "off" } })
+			@Html.ValidationMessageFor(model => model.Valor, "", new { @class = "text-danger" })
+		</div>
+	</div>
+</div>
+<script>
+	$(document).ready(function () {
+		$('#@Html.IdFor(x => x.Valor)').maskMoney();
+    });
+</script>

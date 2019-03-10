@@ -1,0 +1,15 @@
+﻿@{
+	Layout = null;
+
+	ViewBag.Success = TempData["Success"];
+	ViewBag.Tipo = TempData["Type"];
+}
+
+@if (!string.IsNullOrEmpty(ViewBag.Success))
+{
+	<script type="text/javascript">
+		$(document).ready(function () {
+            ExibirNotificacao('@TempData["Type"].ToString()', 'Sucesso!', '@TempData["Success"].ToString()');
+        });
+	</script>
+}
