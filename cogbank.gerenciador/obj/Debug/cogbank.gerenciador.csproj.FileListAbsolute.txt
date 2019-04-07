@@ -1,5 +1,0 @@
-C:\Users\Philipp\Pictures\CogBank\cogbank.gerenciador\bin\Debug\cogbank.gerenciador.dll
-C:\Users\Philipp\Pictures\CogBank\cogbank.gerenciador\bin\Debug\cogbank.gerenciador.pdb
-C:\Users\Philipp\Pictures\CogBank\cogbank.gerenciador\obj\Debug\cogbank.gerenciador.csproj.CoreCompileInputs.cache
-C:\Users\Philipp\Pictures\CogBank\cogbank.gerenciador\obj\Debug\cogbank.gerenciador.dll
-C:\Users\Philipp\Pictures\CogBank\cogbank.gerenciador\obj\Debug\cogbank.gerenciador.pdb

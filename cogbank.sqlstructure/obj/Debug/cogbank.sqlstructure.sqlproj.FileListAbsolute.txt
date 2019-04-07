@@ -1,9 +1,0 @@
-C:\Users\Philipp\Pictures\CogBank\cogbank.sqlstructure\bin\Debug\cogbank.sqlstructure.dacpac
-C:\Users\Philipp\Pictures\CogBank\cogbank.sqlstructure\bin\Debug\cogbank.sqlstructure.dll
-C:\Users\Philipp\Pictures\CogBank\cogbank.sqlstructure\bin\Debug\cogbank.sqlstructure.pdb
-C:\Users\Philipp\Pictures\CogBank\cogbank.sqlstructure\obj\Debug\Model.xml
-C:\Users\Philipp\Pictures\CogBank\cogbank.sqlstructure\obj\Debug\refactor.xml
-C:\Users\Philipp\Pictures\CogBank\cogbank.sqlstructure\obj\Debug\postdeploy.sql
-C:\Users\Philipp\Pictures\CogBank\cogbank.sqlstructure\obj\Debug\predeploy.sql
-C:\Users\Philipp\Pictures\CogBank\cogbank.sqlstructure\obj\Debug\cogbank.sqlstructure.dll
-C:\Users\Philipp\Pictures\CogBank\cogbank.sqlstructure\obj\Debug\cogbank.sqlstructure.pdb

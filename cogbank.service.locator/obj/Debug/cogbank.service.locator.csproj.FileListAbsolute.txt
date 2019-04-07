@@ -1,5 +1,0 @@
-C:\Users\Philipp\Pictures\CogBank\cogbank.service.locator\bin\Debug\cogbank.service.locator.dll
-C:\Users\Philipp\Pictures\CogBank\cogbank.service.locator\bin\Debug\cogbank.service.locator.pdb
-C:\Users\Philipp\Pictures\CogBank\cogbank.service.locator\obj\Debug\cogbank.service.locator.csproj.CoreCompileInputs.cache
-C:\Users\Philipp\Pictures\CogBank\cogbank.service.locator\obj\Debug\cogbank.service.locator.dll
-C:\Users\Philipp\Pictures\CogBank\cogbank.service.locator\obj\Debug\cogbank.service.locator.pdb

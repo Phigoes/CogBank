@@ -1,9 +1,0 @@
-C:\Users\Philipp\Pictures\CogBank\cogbank.staticlist\bin\Debug\cogbank.staticlist.dll
-C:\Users\Philipp\Pictures\CogBank\cogbank.staticlist\bin\Debug\cogbank.staticlist.pdb
-C:\Users\Philipp\Pictures\CogBank\cogbank.staticlist\bin\Debug\cogbank.gerenciador.dll
-C:\Users\Philipp\Pictures\CogBank\cogbank.staticlist\bin\Debug\cogbank.gerenciador.pdb
-C:\Users\Philipp\Pictures\CogBank\cogbank.staticlist\obj\Debug\cogbank.staticlist.csprojAssemblyReference.cache
-C:\Users\Philipp\Pictures\CogBank\cogbank.staticlist\obj\Debug\cogbank.staticlist.csproj.CoreCompileInputs.cache
-C:\Users\Philipp\Pictures\CogBank\cogbank.staticlist\obj\Debug\cogbank.staticlist.csproj.CopyComplete
-C:\Users\Philipp\Pictures\CogBank\cogbank.staticlist\obj\Debug\cogbank.staticlist.dll
-C:\Users\Philipp\Pictures\CogBank\cogbank.staticlist\obj\Debug\cogbank.staticlist.pdb
